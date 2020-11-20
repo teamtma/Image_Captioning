@@ -1,5 +1,6 @@
 # My Files:
 test_for_gitignore
+test/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
