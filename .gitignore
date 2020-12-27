@@ -1,6 +1,7 @@
 # My Files:
 test_for_gitignore
 test/
+data/checkpoints/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
